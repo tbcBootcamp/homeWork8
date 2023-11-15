@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW8</string>
+    <string name="firstname">Firstname</string>
+    <string name="email">Email</string>
+    <string name="lastname">Lastname</string>
+    <string name="save">SAVE</string>
+</resources>
